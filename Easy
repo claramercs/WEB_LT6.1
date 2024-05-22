@@ -8,7 +8,7 @@
     <form action="Result.php" method="POST">
         <input type="hidden" name="level" value="Easy">
 
-	<p> INSTRUCTIONS: make sure the first letter of your answer is CAPITAL Letter. </p>
+	<h2> INSTRUCTIONS: Write your answers in CAPITAL LETTERS . </h2>
         
         <p>1. IDENTIFICATION: What is the chemical symbol for water? ANSWER IN CAPITAL </p>
         <pre>
@@ -30,15 +30,15 @@
 </pre>
         <p>5. MULTIPLE CHOICE: Which month comes after April? </p>
         <pre>
-        <input type="radio" name="q5" value="June"> June
-        <input type="radio" name="q5" value="May"> May
-        <input type="radio" name="q5" value="March"> March
+        <input type="radio" name="q5" value="june"> June
+        <input type="radio" name="q5" value="may"> May
+        <input type="radio" name="q5" value="march"> March
 </pre>
         <p>6. MULTIPLE CHOICE: What is the opposite of up? </p>
         <pre>
-        <input type="radio" name="q6" value="Down"> Down
-        <input type="radio" name="q6" value="Side"> Side
-        <input type="radio" name="q6" value="Across"> Across
+        <input type="radio" name="q6" value="down"> Down
+        <input type="radio" name="q6" value="side"> Side
+        <input type="radio" name="q6" value="across"> Across
 </pre>
         <p>7. MULTIPLE CHOICE: What is 2 + 2? </p>
         <pre>
