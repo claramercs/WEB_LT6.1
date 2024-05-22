@@ -12,29 +12,29 @@
     $level = $_POST['level'];
 
     $Easy_answers = array(
-        "q1" => "mercury",
-        "q2" => "true",
-        "q3" => "true",
-        "q4" => "true",
-        "q5" => "true",
-        "q6" => "true",
-        "q7" => "true",
-        "q8" => "true",
-        "q9" => "true",
-        "q10" => "true",
+        "q1" => "H20",
+        "q2" => "Lion",
+        "q3" => "Paris",
+        "q4" => "5",
+        "q5" => "May",
+        "q6" => "Down",
+        "q7" => "4",
+        "q8" => "True",
+        "q9" => "Frue",
+        "q10" => "True",
     );
 
     $Hard_answers = array(
-        "q1" => "canberra",
-        "q2" => "avocado",
-        "q3" => "iron",
-        "q4" => "sputnik 1",
-        "q5" => "canada",
-        "q6" => "alexander fleming",
-        "q7" => "au gold",
-        "q8" => "true",
-        "q9" => "false",
-        "q10" => "true"
+        "q1" => "Canberra",
+        "q2" => "Avocado",
+        "q3" => "Iron",
+        "q4" => "Sputnik 1",
+        "q5" => "Canada",
+        "q6" => "Alexander Fleming",
+        "q7" => "Au Gold",
+        "q8" => "True",
+        "q9" => "False",
+        "q10" => "True"
 
     );
 
