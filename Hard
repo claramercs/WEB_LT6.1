@@ -8,39 +8,37 @@
     <form action="Result.php" method="POST">
         <input type="hidden" name="level" value="Hard">
         
-        <p>1. IDEN </p>
+        <p>1. IDENTIFICATION: What is the capital city of Australia? </p>
         <pre>
-        
- 
+        <input type="text" name="q1">
 </pre>
-        <p>2. IDEN </p>
+        <p>2. IDENTIFICATION: What is the main ingredient in guacamole? </p>
         <pre>
-       
-
+	<input type="text" name="q1">
 </pre>
-        <p>3. IDEN </p>
+        <p>3. IDENTIFICATION: Which chemical element has the symbol 'Fe' on the periodic table? </p>
         <pre>
-
-
+	<input type="text" name="q1">
 </pre>
-        <p>4. History: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957? </p>
+        <p>4. MULTIPLE CHOICE: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957? </p>
         <pre>
         <input type="radio" name="q4" value="Sputnik 1"> Sputnik 1
         <input type="radio" name="q4" value="carrot"> Carrot
         <input type="radio" name="q4" value="broccoli"> Broccoli
 </pre>
-        <p>5. Geography: Which country has the longest coastline in the world? </p>
+        <p>5. MULTIPLE CHOICE: Which country has the longest coastline in the world? </p>
         <pre>
         <input type="radio" name="q2" value="Italy"> Italy 
         <input type="radio" name="q2" value="Canada"> Canada 
         <input type="radio" name="q2" value="Califoria"> California 
 </pre>
-        <p>6. HAAHHAAHHAHAAHHAHA </p>
+        <p>6. HAAHHAAHHAHAAHHAHA Who is credited with discovering penicillin? </p>
         <pre>
-        <input type="radio" name="q6" value="true"> True
-        <input type="radio" name="q6" value="false"> False
+        <input type="radio" name="q2" value="Alexander Fleming"> Alexander Fleming
+        <input type="radio" name="q2" value="Marie Curie"> Marie Curie
+        <input type="radio" name="q2" value="Albert Einstein"> Albert Einstein
 </pre>
-        <p>7. What is the chemical symbol for the element with atomic number 79? </p>
+        <p>7. MULTIPLE CHOICE: What is the chemical symbol for the element with atomic number 79? </p>
         <pre>
         <input type="radio" name="q3" value="Au (Gold)"> Au Gold 
         <input type="radio" name="q3" value="Pt (Platinum)"> Pt Platinum
