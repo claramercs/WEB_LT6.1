@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Quiz</title>
+</head>
+<body>
+    <h1>Quiz</h1>
+    <form action="" method="GET">
+        <label for="level">Select Quiz Level:</label>
+        <select name="level" id="level">
+            <option value="Easy">Easy</option>
+            <option value="Hard">Hard</option>
+        </select>
+        <button type="submit">Start Quiz</button>
+    </form>
+
+    <?php
+    if (isset($_GET['level'])) {
+        $level = $_GET['level'];
+        if ($level == 'Easy') {
+            header('Location: Easy.php');
+        } elseif ($level == 'Hard') {
+            header('Location: Hard.php');
+        }
+    }
+    ?>
+</body>
+</html>
