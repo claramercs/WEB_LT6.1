@@ -8,23 +8,17 @@
     <form action="Result.php" method="POST">
         <input type="hidden" name="level" value="Easy">
         
-        <p>1. What planet is closest to the sun?</p>
+        <p>1. IDENTIFICATION: What is the chemical symbol for water? </p>
         <pre>
-        <input type="radio" name="q1" value="earth"> Earth 
-        <input type="radio" name="q1" value="saturn"> Saturn 
-        <input type="radio" name="q1" value="mercury"> Mercury 
+        <input type="text" name="q1">
 </pre>
-        <p>2. Question 2</p>
+        <p>2. IDENTIFICATION: What animal is known as the "king of the jungle"? </p>
         <pre>
-        <input type="radio" name="q2" value="earth"> Earth 
-        <input type="radio" name="q2" value="saturn"> Saturn 
-        <input type="radio" name="q2" value="mercury"> Mercury 
+        <input type="text" name="q2">
 </pre>
-        <p>3. Question 3</p>
+        <p>3. What is the capital city of France? </p>
         <pre>
-        <input type="radio" name="q3" value="earth"> Earth 
-        <input type="radio" name="q3" value="saturn"> Saturn 
-        <input type="radio" name="q3" value="mercury"> Mercury 
+       <input type="text" name="q3">
 </pre>
         <p>4. Question 4</p>
         <pre>
