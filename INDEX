@@ -8,10 +8,12 @@
     <h1>Quiz</h1>
     <form action="" method="GET">
         <label for="level">Select Quiz Level:</label>
+        
         <select name="level" id="level">
             <option value="Easy">Easy</option>
             <option value="Hard">Hard</option>
-        </select>
+        </select> 
+     <br></br>
         <button type="submit">Start Quiz</button>
     </form>
 
