@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html >
+<head>
+
+    <title>Quiz Result</title>
+</head>
+<body>
+    <h1>Quiz Result</h1>
+
+    <?php
+    $score = 0;
+    $level = $_POST['level'];
+
+    $Easy_answers = array(
+        "q1" => "mercury",
+        "q2" => "true",
+        "q3" => "true",
+        "q4" => "true",
+        "q5" => "true",
+        "q6" => "true",
+        "q7" => "true",
+        "q8" => "true",
+        "q9" => "true",
+        "q10" => "true",
+    );
+
+    $Hard_answers = array(
+        "q1" => "mercury",
+        "q2" => "true",
+        "q3" => "true",
+        "q4" => "true",
+        "q5" => "true",
+        "q6" => "true",
+        "q7" => "true",
+        "q8" => "true",
+        "q9" => "true",
+        "q10" => "true",
+    );
+
+    $answers = $level == 'Easy' ? $Easy_answers : $Hard_answers;
+
+    foreach ($answers as $question => $correct_answer) {
+        if (isset($_POST[$question]) && $_POST[$question] == $correct_answer) {
+            $score++;
+        }
+    }
+
+    echo "<p>Your total score is: $score/10</p>";
+    ?>
+</body>
+</html>
