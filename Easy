@@ -7,6 +7,8 @@
 	<h1>Easy Quiz</h1>
     <form action="Result.php" method="POST">
         <input type="hidden" name="level" value="Easy">
+
+	<p> INSTRUCTIONS: make sure the first letter of your answer is CAPITAL Letter. </p>
         
         <p>1. IDENTIFICATION: What is the chemical symbol for water? ANSWER IN CAPITAL </p>
         <pre>
