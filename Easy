@@ -22,15 +22,15 @@
 </pre>
         <p>4. MULTIPLE CHOICE: How many fingers do most humans have on one hand? </p>
         <pre>
-        <input type="radio" name="q4" value="apple"> Apple
-        <input type="radio" name="q4" value="carrot"> Carrot
-        <input type="radio" name="q4" value="broccoli"> Broccoli
+        <input type="radio" name="q4" value="5"> 5
+        <input type="radio" name="q4" value="10"> 10
+        <input type="radio" name="q4" value="6"> 6
 </pre>
         <p>5. MULTIPLE CHOICE: Which month comes after April? </p>
         <pre>
-        <input type="radio" name="q5" value="sputnik 1"> Sputnik 1
-        <input type="radio" name="q5" value="carrot"> Carrot
-        <input type="radio" name="q5" value="broccoli"> Broccoli
+        <input type="radio" name="q5" value="June"> June
+        <input type="radio" name="q5" value="May"> May
+        <input type="radio" name="q5" value="March"> March
 </pre>
         <p>6. MULTIPLE CHOICE: What is the opposite of up? </p>
         <pre>
