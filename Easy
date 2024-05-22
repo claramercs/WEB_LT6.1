@@ -42,7 +42,7 @@
 </pre>
         <p>7. MULTIPLE CHOICE: What is 2 + 2? </p>
         <pre>
-       <input type="radio" name="q7" value="1"> 1
+        <input type="radio" name="q7" value="1"> 1
         <input type="radio" name="q7" value="3"> 3
         <input type="radio" name="q7" value="4"> 4
 </pre>
