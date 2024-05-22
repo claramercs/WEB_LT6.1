@@ -22,27 +22,27 @@
 </pre>
         <p>4. MULTIPLE CHOICE: What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957? </p>
         <pre>
-        <input type="radio" name="q4" value="Sputnik 1"> Sputnik 1
+        <input type="radio" name="q4" value="sputnik 1"> Sputnik 1
         <input type="radio" name="q4" value="carrot"> Carrot
         <input type="radio" name="q4" value="broccoli"> Broccoli
 </pre>
         <p>5. MULTIPLE CHOICE: Which country has the longest coastline in the world? </p>
         <pre>
-        <input type="radio" name="q2" value="Italy"> Italy 
-        <input type="radio" name="q2" value="Canada"> Canada 
-        <input type="radio" name="q2" value="Califoria"> California 
+        <input type="radio" name="q2" value="italy"> Italy 
+        <input type="radio" name="q2" value="canada"> Canada 
+        <input type="radio" name="q2" value="califoria"> California 
 </pre>
         <p>6. HAAHHAAHHAHAAHHAHA Who is credited with discovering penicillin? </p>
         <pre>
-        <input type="radio" name="q2" value="Alexander Fleming"> Alexander Fleming
-        <input type="radio" name="q2" value="Marie Curie"> Marie Curie
-        <input type="radio" name="q2" value="Albert Einstein"> Albert Einstein
+        <input type="radio" name="q2" value="alexander fleming"> Alexander Fleming
+        <input type="radio" name="q2" value="marie Curie"> Marie Curie
+        <input type="radio" name="q2" value="albert einstein"> Albert Einstein
 </pre>
         <p>7. MULTIPLE CHOICE: What is the chemical symbol for the element with atomic number 79? </p>
         <pre>
-        <input type="radio" name="q3" value="Au (Gold)"> Au Gold 
-        <input type="radio" name="q3" value="Pt (Platinum)"> Pt Platinum
-        <input type="radio" name="q3" value="Ag (Silver)"> Ag Silver
+        <input type="radio" name="q3" value="au"> Au Gold 
+        <input type="radio" name="q3" value="pt"> Pt Platinum
+        <input type="radio" name="q3" value="ag"> Ag Silver
 </pre>
         <p>8. TRUE OR FALSE: Emperor Qin Shi Huang initiated the construction of the Great Wall of China. </p>
         <pre>
