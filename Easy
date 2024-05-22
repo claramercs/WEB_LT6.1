@@ -8,7 +8,7 @@
     <form action="Result.php" method="POST">
         <input type="hidden" name="level" value="Easy">
         
-        <p>1. IDENTIFICATION: What is the chemical symbol for water? </p>
+        <p>1. IDENTIFICATION: What is the chemical symbol for water? ANSWER IN CAPITAL </p>
         <pre>
         <input type="text" name="q1">
 </pre>
